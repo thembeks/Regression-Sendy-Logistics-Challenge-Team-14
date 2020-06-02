@@ -1,4 +1,4 @@
-model;RMSE;tester
+model;RMSE;results
 DecisonTree;1099.1759070344683;1
 Random Forest Regressor;800.4971968499227;1
 Elastic Net;790.9875592575934;1
